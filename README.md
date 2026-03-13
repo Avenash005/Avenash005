@@ -1,16 +1,16 @@
+<p align="center">✌𝓦𝓔𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓐𝓖𝓔✌</p>
+
+###
+
 <p align="left">About Me<br><br>Hi, I’m Avenash, a passionate software enthusiast who enjoys exploring technology and building innovative solutions. I am particularly interested in software development, artificial intelligence, and web technologies.<br><br>I enjoy learning how systems work behind the scenes and constantly try to improve my skills by experimenting with new ideas and creating projects. I believe that practical experience and real-world problem solving are the best ways to grow as a developer.<br><br>My goal is to build impactful tech products that make learning and productivity easier for people. I’m always curious, motivated to learn, and eager to turn ideas into working solutions.</p>
 
 ###
 
-<img align="right" height="250" src="https://media.tenor.com/W7lIFrltn54AAAAi/hello-kiyty-cute.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/W7lIFrltn54AAAAi/hello-kiyty-cute.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/yqYjP0iAlc0AAAAi/distoboy-illustration.gif"  />
-
-###
-
-<p align="center">✌𝓦𝓔𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓐𝓖𝓔✌</p>
+<img align="left" height="201" src="https://media.tenor.com/yqYjP0iAlc0AAAAi/distoboy-illustration.gif"  />
 
 ###
 
