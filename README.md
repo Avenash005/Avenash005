@@ -1,4 +1,4 @@
-<h1 align="center">✌𝓦𝓔𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓐𝓖𝓔✌</h1>
+<h1 align="center">✌𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝙰𝙶𝙴✌</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="201" src="https://media.tenor.com/yqYjP0iAlc0AAAAi/distoboy-illustration.gif"  />
+<img align="left" height="200" src="https://media.tenor.com/yqYjP0iAlc0AAAAi/distoboy-illustration.gif"  />
 
 ###
 
