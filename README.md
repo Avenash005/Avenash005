@@ -7,7 +7,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/yqYjP0iAlc0AAAAi/distoboy-illustration.gif"  />
+<img align="left" height="250" src="https://media.tenor.com/yqYjP0iAlc0AAAAi/distoboy-illustration.gif"  />
 
 ###
 
