@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/W7lIFrltn54AAAAi/hello-kiyty-cute.gif"  />
+<img align="right" height="250" src="https://media.tenor.com/W7lIFrltn54AAAAi/hello-kiyty-cute.gif"  />
 
 ###
 
