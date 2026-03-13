@@ -24,7 +24,3 @@
 </div>
 
 ###
-
-<p align="left"><h4>Skills:</h4><br><h5>Programming:</h5> Python, JavaScript<br>Web <h5>Development:</h5> HTML, CSS, React (basic), Node.js (basic)<br><h5>Tools:</h5> Git, GitHub, VS Code<br><h5>Concepts:</h5> Problem Solving, API Integration, Basic AI Concepts<br><h5>Other Skills:</h5> Project Building, Debugging, Learning New Technologies</p>
-
-###
