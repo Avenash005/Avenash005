@@ -1,4 +1,4 @@
-# N4si
+# Avenash005
 <p align="left">About Me<br><br>Hi, I’m Avenash, a passionate software enthusiast who enjoys exploring technology and building innovative solutions. I am particularly interested in software development, artificial intelligence, and web technologies.<br><br>I enjoy learning how systems work behind the scenes and constantly try to improve my skills by experimenting with new ideas and creating projects. I believe that practical experience and real-world problem solving are the best ways to grow as a developer.<br><br>My goal is to build impactful tech products that make learning and productivity easier for people. I’m always curious, motivated to learn, and eager to turn ideas into working solutions.</p>
 
 ###
