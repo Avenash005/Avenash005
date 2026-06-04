@@ -109,4 +109,4 @@ I enjoy reverse-engineering how systems work under the hood, and I'm constantly 
 
 ---
 
-<img src="https://github.com/user-attachments/assets/3321d9d0-60e7-4f79-a96f-929b4434ab27" width="100%" alt="Avenash Banner" />
+<img src="https://github.com/user-attachments/assets/3321d9d0-60e7-4f79-a96f-929b4434ab27" width="100%" height="50%" alt="Avenash Banner" />
