@@ -109,30 +109,6 @@ I enjoy reverse-engineering how systems work under the hood, and I'm constantly 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Avenash005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Avenash005&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Avenash005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Avenash005&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
