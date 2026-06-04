@@ -109,32 +109,4 @@ I enjoy reverse-engineering how systems work under the hood, and I'm constantly 
 
 ---
 
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Avenash005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Avenash005&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
-
-<br/>
-
 <img src="https://github.com/user-attachments/assets/3321d9d0-60e7-4f79-a96f-929b4434ab27" width="100%" alt="Avenash Banner" />
-
-</div>
